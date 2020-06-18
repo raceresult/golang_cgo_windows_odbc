@@ -1,1 +1,1 @@
-# go_odbc
+# golang_cgo_windows_odbc
