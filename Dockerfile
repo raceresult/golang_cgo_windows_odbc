@@ -1,4 +1,4 @@
-FROM golang:1.14.3
+FROM golang:1.14.4
 
 LABEL authors="tehsphinx <tehsphinx@web.de>, pieceofsoul <sascha@pieceofsoul.de>"
 # Credits to Péter Szilágyi <peterke@gmail.com> whos awesome xgo containers I stole this from.
